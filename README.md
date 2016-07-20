@@ -1,5 +1,6 @@
 # Docs
-Documentation library for ngDeploy. 
+Documentation library for ngDeploy.   
+
 [Bower](https://github.com/NGDeployio/Docs#bower)  
 [Grunt/Gulp](https://github.com/NGDeployio/Docs#grunt)  
 [HTTPs](https://github.com/NGDeployio/Docs#HTTPs)  
