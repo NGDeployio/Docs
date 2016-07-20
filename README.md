@@ -1,10 +1,10 @@
 # Docs
 Documentation library for ngDeploy.   
 
-[Bower](https://github.com/NGDeployio/Docs#bower)  
-[Grunt/Gulp](https://github.com/NGDeployio/Docs#grunt)  
-[HTTPs](https://github.com/NGDeployio/Docs#HTTPs)  
-[Custom Domains](https://github.com/NGDeployio/Docs#custom-domains)  
+[Bower](#bower)  
+[Grunt/Gulp](#grunt)  
+[HTTPs](#HTTPs)  
+[Custom Domains](#custom-domains)  
 
 ## Build process for ngDeploy
 - Bower/Gulp install
