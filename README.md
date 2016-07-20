@@ -1,9 +1,9 @@
 # Docs
 Documentation library for ngDeploy. 
-[Bower](https://github.com/NGDeployio/Docs#bower)
-[Grunt/Gulp](https://github.com/NGDeployio/Docs#grunt)
-[HTTPs](https://github.com/NGDeployio/Docs#HTTPs)
-[Custom Domains](https://github.com/NGDeployio/Docs#custom-domains)
+[Bower](https://github.com/NGDeployio/Docs#bower)  
+[Grunt/Gulp](https://github.com/NGDeployio/Docs#grunt)  
+[HTTPs](https://github.com/NGDeployio/Docs#HTTPs)  
+[Custom Domains](https://github.com/NGDeployio/Docs#custom-domains)  
 
 ## Build process for ngDeploy
 - Bower/Gulp install
@@ -23,10 +23,11 @@ After **Bower install** is executed we do a **Grunt build**. Here all of the fil
 The resulting directory is then hosted. The initial site is available in the **development** stage. From here we can promote it to **staging** and onto **production**. 
 
 ## Multistage environments
-We offer a multistage environment for a controlled development workflow.
-### Development
-### Staging
-### Production
+We offer a multistage environment for a controlled development workflow. The application is not rebuild between steps.   
+
+#### Development
+#### Staging
+#### Production
 
 ## Premium features
 
