@@ -35,9 +35,9 @@ The resulting directory is then hosted. The initial site is available in the **d
 ## Multistage environments
 We offer a multistage environment for a controlled development workflow. The application is not rebuild between steps.   
 
-#### Development
-#### Staging
-#### Production
+> Development
+> Staging
+> Production
 
 ## Teams
 Teams on ngDeploy allow app creators to delegate promotions and environment configurations.
