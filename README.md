@@ -40,7 +40,7 @@ We offer a multistage environment for a controlled development workflow. The ini
 > Production  
 
 ### Teams
-Teams on ngDeploy allow app creators to delegate promotions and environment configurations.
+Teams on ngDeploy allow app creators to delegate promotions and environment settings.
 
 ## Premium features
 There are a number of benefits to upgrading apps. For example HTTPs, Custom domains, and Caching with KeyCDN. 
