@@ -43,7 +43,7 @@ We offer a multistage environment for a controlled development workflow. The ini
 Teams on ngDeploy allow app creators to delegate promotions and environment configurations.
 
 ## Premium features
-There are a number of benefits to upgraded apps. For example HTTPs, Custom domains, and Caching with KeyCDN. 
+There are a number of benefits to upgrading apps. For example HTTPs, Custom domains, and Caching with KeyCDN. 
 
 ### HTTPs
 Once the application is promoted, we can setup the HTTPs by visiting the Setup page. 
