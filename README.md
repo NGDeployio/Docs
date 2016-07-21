@@ -33,7 +33,7 @@ Then we do a **grunt build**. Here all of the files should be compiled into a ce
 The resulting directory is then hosted. The initial site is available in the **development** stage. From here we can promote it to **staging** and onto **production**. 
 
 ## Multistage environments
-We offer a multistage environment for a controlled development workflow. The application is not rebuild between steps.   
+We offer a multistage environment for a controlled development workflow. The initial push to development runs through the build process and might take a couple of seconds. However all promotions from then on are nearly instant. 
 
 > Development  
 > Staging  
