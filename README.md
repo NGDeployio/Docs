@@ -3,9 +3,11 @@ Documentation library for ngDeploy.
 
 [NPM](#npm-install)  
 [Bower](#bower)  
-[Grunt/Gulp](#grunt)  
+[Grunt](#grunt)  
+[Teams](#teams)
 [HTTPs](#HTTPs)  
 [Custom Domains](#custom-domains)  
+[Caching with KeyCDN](#caching-with-keycdn)
 
 ## Github Integration
 Upon login we offer the ability to hook repositories to ngDeploy. Once hooked Github notifies us when the **Master** repository is updated and we kick off the build process. 
@@ -14,7 +16,7 @@ One of the benefits of an integrated build process is the ability to update web 
 
 ## Build process for ngDeploy
 - NPM install
-- Bower/Gulp install
+- Bower install
 - Grunt build
 - Hosting
 
@@ -37,10 +39,17 @@ We offer a multistage environment for a controlled development workflow. The app
 #### Staging
 #### Production
 
+## Teams
+Teams on ngDeploy allow app creators to delegate promotions and environment configurations.
+
 ## Premium features
+There are a number of benefits to upgraded apps. For example HTTPs, Custom domains, and Caching with KeyCDN. 
 
 ### HTTPs
 Once the application is promoted, we can setup the HTTPs by visiting the Setup page. 
 
 ### Custom domains
-To route a custom domain to ngDeploy add the domain using the Setup page. Then point a CNAME to the upgraded address.
+To route a custom domain to ngDeploy add the domain using the Setup page. Then point a CNAME to the provided address.
+
+### Caching with KeyCDN
+We use KeyCDN to cache all of the websites. This way users get the fastest version of your website for their location. We also have a **cache purge** functinality to clear the cache. 
