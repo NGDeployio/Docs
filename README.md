@@ -23,7 +23,7 @@ The first part of the build process installs any npm modules listed in the **pac
 During the deployment process we execute a basic **bower install**. The process will currently fail if there are conflicts within the Bower file. 
 
 ## Grunt
-Then we do a **grunt build**. Here all of the files should be compiled into a central distribution directory. This is typically a **dist**  or **app** from which the files will be hosted. By default we host files from **./** unless otherwise specified in **app settings** ![App Settings](https://res.cloudinary.com/ngdeploy/image/upload/v1469102036/Screen_Shot_2016-07-21_at_7.49.04_AM_uqw6j5.png)
+Then we do a **grunt build**. Here all of the files should be compiled into a central distribution directory. This is typically a **dist**  or **app** from which the files will be hosted. By default we host files from **./** unless otherwise specified in **app settings** ![App Settings](http://res.cloudinary.com/ngdeploy/image/upload/c_scale,h_31/v1469102036/Screen_Shot_2016-07-21_at_7.49.04_AM_uqw6j5.png)
 
 ## Hosting
 The resulting directory is then hosted. The initial site is available in the **development** stage. From here we can promote it to **staging** and onto **production**. 
