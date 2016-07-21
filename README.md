@@ -8,7 +8,9 @@ Documentation library for ngDeploy.
 [Custom Domains](#custom-domains)  
 
 ## Github Integration
-Upon login we offer the ability to hook repositories to ngDeploy. Once hooked Github notifies us when the **Master** repository is updated and we kick off the build process.
+Upon login we offer the ability to hook repositories to ngDeploy. Once hooked Github notifies us when the **Master** repository is updated and we kick off the build process. 
+
+One of the benefits of an integrated build process is the ability to update web applications directly from Github.
 
 ## Build process for ngDeploy
 - NPM install
